@@ -1,0 +1,17 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+.title {
+    color: red;
+    font-weigh: bold;
+}
+
+.image {
+    height: auto;
+    width: 500px;
+}
